@@ -1,0 +1,30 @@
+{
+  "heroes": [],
+  "filters": [
+    {
+      "name": "all",
+      "translatedName": "All",
+      "colorClassName": "btn-outline-dark"
+    },
+    {
+      "name": "fire",
+      "translatedName": "Fire",
+      "colorClassName": "btn-danger"
+    },
+    {
+      "name": "water",
+      "translatedName": "Water",
+      "colorClassName": "btn-primary"
+    },
+    {
+      "name": "wind",
+      "translatedName": "Wind",
+      "colorClassName": "btn-success"
+    },
+    {
+      "name": "earth",
+      "translatedName": "Earth",
+      "colorClassName": "btn-secondary"
+    }
+  ]
+}
